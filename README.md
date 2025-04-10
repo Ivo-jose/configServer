@@ -45,7 +45,7 @@ For a full list of dependencies, check the `pom.xml` file.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/seu-usuario/ms-configServer.git
+   git clone https://github.com/Ivo-jose/configServer.git
    cd ms-configServer
    ```
 
